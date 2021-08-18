@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shabirara. You can call me Shabi.
+- 👀 I’m interested in react-native programming. I love the game Stardew Valley and I love hamsters. I hope to make an app about ethical hamster breeding one day.
+- 🌱 I’m currently learning react-native programming.
+- 💞️ I’m looking to collaborate on developing a fun and functional mobile app.
+- 📫 You can email me at aghnia.shabira@gmail.com. Looking forward to hear from you!
